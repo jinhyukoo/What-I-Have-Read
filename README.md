@@ -4,13 +4,12 @@
 
 ### 읽는 중
 - [실용주의 프로그래머](https://github.com/jinhyukoo/What-I-Have-Read/tree/main/ThePragmaticProgrammer)
-- 자바스크립트 스킬업
 
 ### 읽을 예정
 - 클린 코드
 - 클린 아키텍처
 
 ### 다읽음
-
+- 자바스크립트 스킬업(ELOQUENT JAVASCRIPT)
 
 
